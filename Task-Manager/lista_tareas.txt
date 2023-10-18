@@ -1,0 +1,2 @@
+lavar platos,Deberé lavar los platos antes de que sean las 4PM
+caca,caca
