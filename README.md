@@ -1,6 +1,6 @@
 # Python-Easy
 
-As a Python entry level enthusiast, my primary focus is on personal growth. So I decided to make 3 proyecto of each level difficulty:
+As a Python entry level enthusiast, my primary focus is on personal growth. So I decided to make 3 proyects of each level difficulty:
 
 #DIFFICULTY: EASY#
 
