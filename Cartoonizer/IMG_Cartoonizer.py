@@ -35,4 +35,4 @@ def cartoonize(image_path):
 # Uso del cartoonizer con una imagen específica
 cartoonize("C:/Path/de/la/imagen/a/cartoonizar/imagen.jpg") 
 # ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ #
-#Cualquier extensioón de archivo relacionada a imagenes, es aceptada.
+#Cualquier extensión de archivo relacionada a imagenes, es aceptada.
